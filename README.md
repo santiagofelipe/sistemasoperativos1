@@ -1,3 +1,6 @@
 Sistemas Operativos
 descripcion del repositorio de <strong>SO1</strong>.
-material de prueba
+<br>
+material de prueba.
+<br>
+otra modificacion.
